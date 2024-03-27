@@ -1,0 +1,24 @@
+@import url(style.css);
+h1{
+    color: rgb(184, 184, 184);
+}
+img{
+    height: 250px;
+    border-radius: 5px;
+    margin-top: 200px;
+    max-width:100%;
+    margin-left: 500px;
+}
+p{
+    margin-left: 550px;
+}
+h3{
+    margin-left: 550px;
+}
+@media (max-width:1000px) {
+    p, h3 ,img{
+      margin-left: 100px;
+      margin-top: 10px; 
+    }
+  }
+  
