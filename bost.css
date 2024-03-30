@@ -1,9 +1,0 @@
-@import url(style.css);
-h1{
-    color: #ffffff;
-}
-img{
-    width: 95%;
-    display: grid;
-    column-gap: 50px;
-}
